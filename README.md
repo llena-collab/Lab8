@@ -7,7 +7,8 @@
 
 <br>
 <br>
-[PWA Screenshot](./pwa.png)
+
+[![PWA Screenshot](./pwa.png)](./pwa.png)
 
 <br>
 <br>
